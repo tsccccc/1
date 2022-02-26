@@ -7,5 +7,6 @@
         "*/15 * * * * http://script.frp.aiuyo.com:8680/jrtt.js, tag=今日头条极速, enabled=false",
         "3 7-17 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zssq.js, tag=追书神器, enabled=false",
         "0 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/qqyd.js, tag=文旅看点, enabled=false"
+        
     ]
 }
