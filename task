@@ -2,6 +2,7 @@
     "name":"tsccccc",
     "description":"good good study day day up",
     "task":[
+        "10 8 * * * https://gitee.com/gossh520/script/raw/master/qxqapp.js,tag=quxingqiu,enabled=false",
         "*/5 7-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/txs.js,tag=淘小说,enabled=false",
         "1 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dyjsb.js,tag=抖音极速版,enabled=false",
         "*/15 * * * * http://script.frp.aiuyo.com:8680/jrtt.js, tag=今日头条极速, enabled=false",
