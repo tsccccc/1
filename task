@@ -3,7 +3,7 @@
     "description":"good good study day day up",
     "task":[
         "10 8 * * * https://gitee.com/gossh520/script/raw/master/qxqapp.js,tag=quxingqiu,enabled=false",
-        "*/20 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js,tag=欢乐红包",
+        "*/20 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js,tag=欢乐红包,enabled=false",
         "30 8 * * * hlzh.js,tag=航旅纵横签到,enabled=false",
         "*/5 7-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/txs.js,tag=淘小说,enabled=false",
         "1 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dyjsb.js,tag=抖音极速版,enabled=false",
