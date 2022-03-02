@@ -2,7 +2,7 @@
     "name":"tsccccc",
     "description":"good good study day day up",
     "task":[
-        
+        bu
         "*/20 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js,tag=欢乐红包,enabled=false",
         "30 8 * * * hlzh.js,tag=航旅纵横签到,enabled=false",
         "*/5 7-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/txs.js,tag=淘小说,enabled=false",
@@ -10,7 +10,8 @@
         "*/15 * * * * http://script.frp.aiuyo.com:8680/jrtt.js, tag=今日头条极速, enabled=false",
         "3 7-17 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zssq.js, tag=追书神器, enabled=false",
         "0 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/qqyd.js, tag=文旅看点, enabled=false",
-        "1 1 1 1 1 http://script.frp.aiuyo.com:8680/kkd.js, tag=快快点, enabled=false"
+        "1 1 1 1 1 http://script.frp.aiuyo.com:8680/kkd.js, tag=快快点, enabled=false",
+        "1 1 1 1 1 https://raw.githubusercontent.com/bluesmallpig/scripts/main/gylm.js, tag=gylm, enabled=false"
         
     ]
 }
