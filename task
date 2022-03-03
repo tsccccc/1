@@ -2,7 +2,7 @@
     "name":"tsccccc",
     "description":"good good study day day up",
     "task":[
-        "*/20 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js,tag=欢乐红包,enabled=false",
+        "*/20 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js,tag=欢乐红包,img-url=https://github.com/tsccccc/1/blob/main/1.jpg,enabled=false",
         "50 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/jztt.js,tag=jjzt,enabled=false",
         "30 8 * * * hlzh.js,tag=航旅纵横签到,enabled=false",
         "*/5 7-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/txs.js,tag=淘小说,enabled=false",
