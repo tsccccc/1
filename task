@@ -5,7 +5,7 @@
     
     
         " , tag= ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
-        " , tag= ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
+        "36 5-21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ks.js, tag=快手 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
     
         "*/20 8-20 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js,tag=欢乐红包,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
         "30 8 * * * hlzh.js,tag=航旅纵横签到,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
