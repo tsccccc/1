@@ -8,7 +8,8 @@
         "36 5-21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ks.js, tag=快手 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
         "1 1 1 1 1 https://raw.githubusercontent.com/bluesmallpig/scripts/main/sqxs.js, tag=书旗日常 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
         "1 1 1 1 1 https://raw.githubusercontent.com/bluesmallpig/scripts/main/everyday.js, tag=书旗每日任务 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
-        "1 1 1 1 1 , tag= ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
+        "1 1 1 1 1 https://raw.githubusercontent.com/bluesmallpig/scripts/main/qtt.js, tag=趣头条 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
+        
         
     
         "*/20 8-20 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js,tag=欢乐红包,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
