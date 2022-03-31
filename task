@@ -2,10 +2,10 @@
     "name":"tsccccc",
     "description":"good good study day day up",
     "task":[
-    
+
 "12 8-18 * * * http://script.frp.aiuyo.com:8680/qd.js, tag=签到 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
 
-
+"12 3 * * *     http://script.frp.aiuyo.com:8680/jy20220331cdvde/jy.js, tag=剪映 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
     
 "12 8-18 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/jktt.js, tag=健康头条 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
 "36 5-21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ks.js, tag=快手 ,img-url=https://raw.githubusercontent.com/tsccccc/1/main/t.png,enabled=false",
